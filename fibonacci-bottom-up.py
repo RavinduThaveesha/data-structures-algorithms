@@ -10,4 +10,4 @@ def fibBottomUp(n):
         
     return bottom_up[n]
 	
-print fibBottomUp(10000)	
+print fibBottomUp(1000000)	
